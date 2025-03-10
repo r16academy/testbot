@@ -1,0 +1,13 @@
+### How to setup Git
+-- Register on github.com and note down your username and email. Create a repository and note down its address.
+-- Download git from https://git-scm.com/downloads/win and install it.
+-- Clone the created repository into your machine. Open Git Bash in the same directory.
+-- Configure the git a. git config --global user.name "r16academy"
+                     b. git config --global user.email "r16academy@gmail.com"
+-- Check repository status : git status
+-- Add all the changes to commit to main branch : git add .
+-- Commit the changes : git commit -m "My First commit."
+-- Push to main branch : git push
+-- Pull the changes from main branch: git pull
+
+-- Multiple commands: git add . && git commit -m "Test commit." && git push
