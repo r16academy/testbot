@@ -1,0 +1,9 @@
+
+
+-- Download Heroku client from : https://devcenter.heroku.com/articles/heroku-cli and install it
+-- Test installation: heroku --version
+-- Login to : heroku Login
+-- Check status of heroku platform: heroku status
+-- To list heroku apps: heroku apps
+-- To update heroku: heroku update
+-- 

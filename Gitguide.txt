@@ -1,3 +1,5 @@
+git add . ; git commit -m "Test commit." ; git push
+
 ### How to setup Git
 -- Register on github.com and note down your username and email. Create a repository and note down its address.
 -- Download git from https://git-scm.com/downloads/win and install it.
@@ -10,4 +12,3 @@
 -- Push to main branch : git push
 -- Pull the changes from main branch: git pull
 
--- Multiple commands: git add . && git commit -m "Test commit." && git push
