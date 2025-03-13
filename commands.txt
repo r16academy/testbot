@@ -1,5 +1,5 @@
-git add . ; git commit -m "Test commit." ; git push
+git add . ; git commit -m "Test commit." ; git push heroku main
 
 heroku create r16a-app
-git push heroku main
+
 
