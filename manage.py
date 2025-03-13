@@ -12,7 +12,7 @@ def main():
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "gettingstarted.settings")
     try:
         from django.core.management import execute_from_command_line
-        @app.route('/', methods=['GET'])
+        @app.route('/api', methods=['GET'])
         def hello():
             return "<h1>Hello world!</h1>"
     except ImportError as exc:
